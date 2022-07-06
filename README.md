@@ -1,2 +1,2 @@
-![alt text](https://chromeunboxed.com/wp-content/uploads/2021/01/Manifest-v3-1200x900.jpg)
+![alt text](https://miro.medium.com/max/1200/1*iuBaTVwrXDj9yBMwWs-gPg.jpeg)
 This repository introduces boilerplate of Manifest V3 for Chrome Extensions (Manifest V3).
